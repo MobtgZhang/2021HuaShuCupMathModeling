@@ -1,0 +1,2 @@
+# 2021HuaShuCupMathModeling
+第二届全国华数杯数学建模竞赛C题目解决方案
